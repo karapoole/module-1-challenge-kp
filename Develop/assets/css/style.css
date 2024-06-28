@@ -23,12 +23,12 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-/* can the three below be combined into "header nav?" */
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: 20px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -99,16 +99,6 @@ p {
 
 .benefit-lead,
 .benefit-brand,
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
