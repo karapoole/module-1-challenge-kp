@@ -2,7 +2,7 @@
 
 ## Description
 
-The main objective of this project was to refactor a code base to improve assessibilty. HTML was refactored to inlcude semantic elements to improve readabiliy. Alt text was added to images for screen readers. CSS was refactored to dry code, including combining repetative class selectors that included the same styling elements. Comments were added to HTML and CSS code to explain functionality. Additonaly, broken navigation links were repaired.
+The main objective of this project was to refactor a code base to improve accessibility. HTML was refactored to include semantic elements to improve readability. Alt text was added to images for screen readers. CSS was refactored to dry code, including combining repetitive class selectors that included the same styling elements. Comments were added to HTML and CSS code to explain functionality. Additionally, broken navigation links were repaired.
 
 ## Screenshots
 
