@@ -20,9 +20,7 @@ The main objective of this project was to refactor a code base to improve assess
 
 ## Deployed Application
 
-## Credits
-
-N/A
+TBD
 
 ## License
 
