@@ -6,7 +6,7 @@ The main objective of this project was to refactor a code base to improve access
 
 ## Screenshots
 
-### Semantic html tags such as "nav" were added to imporove readabilty.
+### Semantic HTML tags such as "nav" were added to improve readability.
 
 ![semantic-html-tags](./assets/images/Semantic_HTML.png)
 
