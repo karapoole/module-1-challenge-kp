@@ -25,6 +25,7 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+/* creates navigation bar */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -42,18 +43,6 @@ header nav ul li {
   margin-left: 25px;
 }
 
-footer {
-  padding: 30px;
-  clear: both;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  text-align: center;
-}
-
-footer h2 {
-  font-size: 20px;
-}
-
 a {
   color: #ffffff;
   text-decoration: none;
@@ -63,6 +52,7 @@ p {
   font-size: 16px;
 }
 
+/* displays background image below navigation bar */
 .hero {
   height: 800px;
   width: 100%;
@@ -143,4 +133,16 @@ p {
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
+}
+
+footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+footer h2 {
+  font-size: 20px;
 }
